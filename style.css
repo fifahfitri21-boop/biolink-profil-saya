@@ -1,4 +1,4 @@
-body {
+ody {
     background-color: antiquewhite;
     font-family: Arial, sans-serif;
 }
@@ -26,7 +26,7 @@ body {
 }
 
 .bio-singkat {
-    color:rgb(36, 103, 120)
+    color:rgb(85, 101, 143)
 }
 .tombol-link{
     display: block; /* Agar tombol turun ke bawah, tidak sejajar */
